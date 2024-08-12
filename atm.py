@@ -29,6 +29,7 @@ def check_balance():
     global balance
     print(f'Your current balance is ${balance}')
 
+# Main Function
 def atm():
     global balance
     balance = 0
