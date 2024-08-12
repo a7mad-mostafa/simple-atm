@@ -1,6 +1,6 @@
 import streamlit as st
 
-
+# Title
 st.markdown(
     """
     <h1 style='text-align: center; color: #99004d; font-family: cursive;' > Welcome to ATM App! </h1>
@@ -8,6 +8,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+# Image
 st.markdown( """
     <div style="display: flex; justify-content: center;">
         <img src="https://www.atmofamerica.com/wp-content/uploads/2016/06/6172535_G.jpg" width="400" style="border-radius: 30px;">
